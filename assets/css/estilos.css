@@ -1,6 +1,7 @@
 body {
-  font-family: "Raleway", sans-serif;
-}
+  font-family: 'Roboto', sans-serif;
+  }
+
 
 /* Hero Section */
 
@@ -11,19 +12,22 @@ body {
   background-position: left;
 }
 
+i{
+  color: grey;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:cover;
   background-position: center;
 }
 
 /* Contacto */
 
 #Contacto form label {
-  font-weight: 700;
+  font-weight: 500;
   color: #373a3c;
 }
 
