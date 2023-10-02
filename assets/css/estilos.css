@@ -45,3 +45,23 @@ body {
   }
 
 }
+
+h1{
+
+  font-family: "Roboto";
+  background-color: transparent;
+  text-decoration: underline;
+  
+  }
+  /*override*/
+  .starting-title{
+  
+      color: aqua;
+      background-color: burlywood;
+  }
+  
+  .small{
+  font-size: 10px;
+  text-align: center;
+  
+  }
